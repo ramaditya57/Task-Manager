@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore build/output directories
+dist/
+build/
+
+# Optional: Ignore uploads subfolders if not needed
+# But allow the main uploads folder and existing files
+# (remove below lines if you want everything in uploads)
+
+# !uploads/
+# !uploads/**
+
+# Ignore everything in uploads except tracked files
+uploads/*
+!uploads/.gitkeep
+!uploads/*.jpg
+!uploads/*.png
+!uploads/*.jpeg
+!uploads/*.webp
+!uploads/*.gif
+
+# Other files
+*.env.local
