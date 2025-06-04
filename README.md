@@ -77,15 +77,15 @@ Task status updates automatically based on checklist progress — no manual togg
 ## 📸 Screenshots
 
 Login Page
-![image](https://github.com/user-attachments/assets/b8daffd2-dee5-4b36-8986-78d531400806)
+![image](https://github.com/user-attachments/assets/fbc22762-4920-40e1-82ee-acd641748765)
 
 Signup Page
-![image](https://github.com/user-attachments/assets/d33cd5d3-2e87-41f9-94e0-056c05e0d582)
+![image](https://github.com/user-attachments/assets/4d6f6798-128e-41df-a3fd-021affa854d8)
 
 Admin Panel
-![image](https://github.com/user-attachments/assets/88e43834-fc9f-4c7b-ac2c-1fb42e6943f1)
+![image](https://github.com/user-attachments/assets/105dd79c-06bf-4920-a647-27916270ede4)
 
 User Panel
-![image](https://github.com/user-attachments/assets/df84385a-3f1d-402b-a25a-69616b44a5b6)
+![image](https://github.com/user-attachments/assets/e58ee16e-1bf4-44f8-8275-aec1e461f575)
 
 ---
