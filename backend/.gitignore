@@ -35,3 +35,5 @@ uploads/*
 
 # Other files
 *.env.local
+.env
+.env.production
